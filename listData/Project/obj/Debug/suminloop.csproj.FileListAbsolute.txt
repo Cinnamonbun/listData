@@ -1,0 +1,12 @@
+c:\users\owner\documents\visual studio 2015\Projects\suminloop\bin\Debug\suminloop.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\suminloop\bin\Debug\suminloop.exe
+c:\users\owner\documents\visual studio 2015\Projects\suminloop\bin\Debug\suminloop.pdb
+c:\users\owner\documents\visual studio 2015\Projects\suminloop\obj\Debug\suminloop.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\suminloop\obj\Debug\suminloop.exe
+c:\users\owner\documents\visual studio 2015\Projects\suminloop\obj\Debug\suminloop.pdb
+K:\listData\Project\bin\Debug\suminloop.exe.config
+K:\listData\Project\obj\Debug\suminloop.exe
+K:\listData\Project\obj\Debug\suminloop.pdb
+K:\listData\Project\bin\Debug\suminloop.exe
+K:\listData\Project\bin\Debug\suminloop.pdb
+K:\listData\Project\obj\Debug\suminloop.csprojResolveAssemblyReference.cache

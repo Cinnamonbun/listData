@@ -1,0 +1,9 @@
+K:\listData\Project\bin\Release\suminloop.exe.config
+K:\listData\Project\bin\Release\suminloop.exe
+K:\listData\Project\bin\Release\suminloop.pdb
+K:\listData\Project\obj\Release\suminloop.csprojResolveAssemblyReference.cache
+K:\listData\Project\obj\Release\suminloop.exe
+K:\listData\Project\obj\Release\suminloop.pdb
+D:\listData\Project\bin\Release\suminloop.exe.config
+D:\listData\Project\obj\Release\suminloop.exe
+D:\listData\Project\obj\Release\suminloop.pdb

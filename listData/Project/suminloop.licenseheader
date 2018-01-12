@@ -1,0 +1,5 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// Copyright (c) 2017 William C. Dobson
+// Contact at wcd96099@gmail.com for non-personal use.
+// For Personal use, feel free to use, but keep copyright info within code.
